@@ -1,3 +1,8 @@
+# 千葉県 新型コロナウイルス感染症対策サイト forked from tokyo-metropolitan-gov/covid19
+
+## link
+ - 新型コロナウイルス感染症への対応について https://www.pref.chiba.lg.jp/cate/kfk/kenkou-iryou/kenkouzukuri/kansenshou/coronavirus.html
+
 # 東京都 新型コロナウイルス感染症対策サイト
 
 ![](https://github.com/tokyo-metropolitan-gov/covid19/workflows/production%20deploy/badge.svg)
